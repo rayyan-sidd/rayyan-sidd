@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyan-sidd&label=Profile%20views&color=0e75b6&style=flat" alt="rayyan-sidd" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Front-end Development & DSA**
 
 - 📫 How to reach me **userrayyan01@gmail.com**
 
