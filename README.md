@@ -1,25 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mohammad Rayyan</h1>
-<h3 align="center">An Aspiring Software Developer Engineer from India</h3>
+# Hey there! I'm [Mohammad Rayyan](https://google.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyan-sidd&label=Profile%20views&color=0e75b6&style=flat" alt="rayyan-sidd" /> </p>
+### Engineering Student & Aspiring Full-Stack Developer
+I love to deep dive into **JavaScript** fundamentals and behind-the-scenes working and I love creating tools from scratch.
 
-- 🌱 I’m currently learning **Front-end Development & DSA**
+---
 
-- 📫 How to reach me **userrayyan01@gmail.com**
+### Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev_rayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_rayyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-rayyan-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-rayyan-517115311" height="30" width="40" /></a>
-<a href="https://instagram.com/roi.yawn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roi.yawn_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev_rayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_rayyan" height="30" width="40" /></a>
-</p>
+**Frontend** : HTML5, CSS, Tailwind, JavaScript, React
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Backend (still learning)**: Node.js, Express.js, MongoDB, Python(Interest in AI/ML)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyan-sidd&show_icons=true&locale=en&layout=compact" alt="rayyan-sidd" /></p>
+**Languages:** Java, JavaScript, Python, C
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyan-sidd&show_icons=true&locale=en" alt="rayyan-sidd" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan-sidd&" alt="rayyan-sidd" /></p>
+### Featured Projects
+
+* **[GDG Helper](https://gdghelper.netlify.app)**: A tool I built to help my peers navigate and complete Google Cloud Boost labs efficiently.
+* **Pokedex Project**: My first major milestone built entirely from scratch using HTML and JavaScript. 
+
+---
+
+### Current Focus
+* **Placement Prep**: Currently tackling LeetCode to sharpen my problem-solving.
+* **Full-Stack Journey**: Moving beyond the basics of Node.js and Databases.
+
+---
+
+### Fun Facts & Hobbies
+* **Attack on Titan** is my fav anime.
+* I love to read about **Human psychology**.
+* I play **Valorant**.
+* I am an intermediate **Calisthenics** athelete.
+
+---
+
+### Let's Connect!
+* [LinkedIn](https://www.linkedin.com/in/mohammad-rayyan-siddiqui/)
