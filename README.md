@@ -18,7 +18,7 @@ I love to deep dive into **JavaScript** fundamentals and behind-the-scenes worki
 ### Featured Projects
 
 * **[GDG Helper](https://gdghelper.netlify.app)**: A tool I built to help my peers navigate and complete Google Cloud Boost labs efficiently.
-* **[Pokedex](https://pokidexi.netlify.app/)**: My first major milestone built entirely from scratch using HTML and JavaScript. 
+* **[Pokedex](https://pokidexi.netlify.app/)**: My first project. 
 
 ---
 
