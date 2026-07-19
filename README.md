@@ -28,13 +28,5 @@ I love to deep dive into **JavaScript** fundamentals and behind-the-scenes worki
 
 ---
 
-### Fun Facts & Hobbies
-* **Attack on Titan** is my fav anime.
-* I love to read about **Human psychology**.
-* I play **Valorant**.
-* I am an intermediate **Calisthenics** athelete.
-
----
-
 ### Let's Connect!
 * [LinkedIn](https://www.linkedin.com/in/mohammad-rayyan-siddiqui/)
