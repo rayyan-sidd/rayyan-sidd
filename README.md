@@ -22,9 +22,9 @@ I build things end-to-end — from Fullstack apps to Python-based multi-agent sy
 
 ### Projects
 
-- **AI Research-to-Report Generator** — Multi-agent pipeline (Researcher + Writer) built with CrewAI, running locally via Ollama. `CrewAI` `Python` `Ollama`
+- **College Coding Club Website** *(in progress)* — Official site for my college coding club. `React` `Vite` `Tailwind` `Supabase`
 - **DeepSearch AI** — Agentic research assistant using LangGraph for multi-agent orchestration, with a Streamlit UI. `LangGraph` `Streamlit` `Python`
-- **College Coding Club Website** *(in progress)* — Official site for my college coding club, built in phases with routing, custom hooks, and Supabase integration. `React` `Vite` `Tailwind` `Supabase`
+
 
 *Pinned repos below have more detail on each.*
 
